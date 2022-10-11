@@ -8,7 +8,7 @@
 ![alt text](https://badges.aleen42.com/src/github.svg)
 ![alt text](https://badges.aleen42.com/src/visual_studio_code.svg)
 ## IMPORTANT <br/>
-This is only for educational purpose. Anything what ever you do with this program, i do not have responsibility.<br/>
+This is only for educational purpose. Anything and whatever you do with this program, i do not have responsibility.<br/>
 ## Description <br/>
 I was inspired [iamrohitagg](https://github.com/iamrohitagg/GitHub_Graph)'s work which makes it possible to do something that has not been done in the past, turn lights on the contribution graph in our profile.
 If you want my project working, you must ``npm install simple-git, moment, and jsonfile.`` I really recommend you to go to iamrohitagg's [youtube](https://www.youtube.com/watch?v=2q--gA97caM) and watch it properly.
