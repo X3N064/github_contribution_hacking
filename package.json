@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/X3N064/github_contribution_hacking#readme",
   "dependencies": {
-    "jsonfile": "^6.1.0",
+    "jsonfile": "^6.2.0",
     "moment": "^2.29.4",
     "random": "^3.0.6",
     "simple-git": "^3.14.1"
